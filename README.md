@@ -35,5 +35,5 @@ A solução foi desenvolvida em duas etapas principais:
   - Dashboard com indicadores (KPIs)
   - Gráficos interativos e segmentações
 
-![Dashboard Power BI](Captura de tela 2025-10-19 215654.png)
+![Dashboard Power BI](https://github.com/anabeatrizzdm/HREmployeeAttrition/blob/main/Captura%20de%20tela%202025-10-19%20215654.png)
 
